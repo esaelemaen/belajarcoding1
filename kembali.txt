@@ -1,1 +1,1 @@
-file uji coba git checkout dan git reset ""bagian ini ditambahkan setelah commit file pertama kali""
+file uji coba git checkout dan git reset
